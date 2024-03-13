@@ -3,11 +3,11 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(189, 225, 122);
+    background-color: rgb(80,80,80);
 }
 
 .header_text {
-    font-family: 'Nunito';
+    font-family: 'Lucida Handwriting';
     font-size: 50px;
     font-weight: bold;
     color: white;
